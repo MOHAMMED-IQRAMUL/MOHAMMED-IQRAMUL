@@ -14,8 +14,7 @@ My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at 
 - Kotlin
 - SQL-PL/SQL
 - Oracle Database
-- Android Development (with Kotlin and Jetpack Compose)
-
+ 
 **Web Development Skills:**
 - Frontend (HTML, CSS, JavaScript)
 - Design Tool - Figma
