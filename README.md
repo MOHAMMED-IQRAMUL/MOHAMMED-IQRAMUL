@@ -49,6 +49,17 @@ My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-iqramul&" alt="mohammed-iqramul" /></p>
 
 
+# Achievements
+<!--1--!>
+<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/lg50.png" alt="mohammed-iqramul" width="100" height="100" /></p>
+<!--2--!>
+<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
+<!--3--!>
+<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
+<!--4--!>
+<p><img align="left" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="mohammed-iqramul" width="100" height="100" /></p>
+
+
 
 
 <!----
