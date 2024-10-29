@@ -29,12 +29,12 @@ My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at 
 
 <br/>
 
-
+<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="mohammed-iqramul" width="100" height="100" /></p> 
-<p><img align="left" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="mohammed-iqramul" width="100" height="100" /></p>
+<p><img  src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="mohammed-iqramul" width="100" height="100" /></p>
 
 
 # Stats
