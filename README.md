@@ -5,10 +5,6 @@
 
 My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at Galgotias University. I am actively working towards becoming a successful Software Engineer, with a strong interest in Web Development and proficient knowledge of Frontend Development.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammed-iqramul&theme=light&no-frame=false&no-bg=false&margin-w=5)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,10 +37,10 @@ My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-iqramul&show_icons=true&locale=en&layout=compact" alt="mohammed-iqramul" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-iqramul&show_icons=true&locale=en" alt="mohammed-iqramul" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-iqramul&" alt="mohammed-iqramul" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-iqramul&" alt="mohammed-iqramul" /></p> -->
+<!--
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammed-iqramul&limit=5&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mohammed-iqramul&limit=5&theme=light&combine_all_yearly_contributions=true) -->
 
 <br/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-iqramul&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-iqramul" /> </p>
