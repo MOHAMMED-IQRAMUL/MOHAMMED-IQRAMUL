@@ -25,6 +25,9 @@ My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at 
 
 <br/>
 
+<h2 align="left">LeetCode Stats:</h2>
+<p align="center"> <img align="center" src="https://leetcard.jacoblin.cool/mohammed-iqramul?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="LeetCode Stats"/></p>
+
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
 <p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
