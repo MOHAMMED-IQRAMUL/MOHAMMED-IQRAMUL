@@ -8,11 +8,14 @@ My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+      
 <a href="https://linkedin.com/in/mohammed-iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-iqramul" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammed_iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammed_iqramul" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohammed-iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammed-iqramul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohammed-iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed-iqramul" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rapp7o1o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rapp7o1o" height="30" width="40" /></a>
+<a href="https://discord.com/users/1218169520032710708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammediqramul" height="30" width="40" /></a>
+
 </p>
 
 # 💻 Tech Stack:
