@@ -1,52 +1,81 @@
-<H1>Hi, I’m @MOHAMMED-IQRAMUL </H1>
-<br>
-      
-👋 **Hello**,    
-
-My name is MOHAMMED IQRAMUL, currently pursuing a B.Tech in Computer Science at Galgotias University. I am actively working towards becoming a successful Software Engineer, with a strong interest in Web Development and proficient knowledge of Frontend Development.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-      
-<a href="https://linkedin.com/in/mohammed-iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-iqramul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohammed_iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammed_iqramul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohammed-iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammed-iqramul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammed-iqramul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed-iqramul" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rapp7o1o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rapp7o1o" height="30" width="40" /></a>
-<a href="https://discord.com/users/1218169520032710708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammediqramul" height="30" width="40" /></a>
-
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohammed+Iqramul;Aspiring+Software+Engineer;Full+Stack+Developer;Competitive+Programmer;GEN-AI+%7C+WEB3+Explorer" alt="Typing SVG" />
 </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=orange)
+<!-- Cool Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
- 
-# Badges 
+<!-- About Me -->
+<p align="center">
+  🎓 Final-year <b>B.Tech CSE</b> at Galgotias University<br>
+  💻 Passionate about <b>Web Development</b> & <b>Competitive Programming</b><br>
+  🚀 Exploring <b>AI + Cloud + Full Stack</b> solutions<br>
+  🌟 Goal: To become a successful <b>Software Engineer</b>
+</p>
 
-[![An image of @mohammediqramul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohammediqramul)](https://holopin.io/@mohammediqramul)
+<!-- Wavy Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=80&section=footer"/>
+</p>
 
-<br/>
+<!-- Socials -->
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-iqramul"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://leetcode.com/mohammed-iqramul"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/></a>
+  <a href="https://codeforces.com/profile/mohammed-iqramul"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40"/></a>
+  <a href="https://hackerrank.com/mohammed_iqramul"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/rapp7o1o"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40"/></a>
+  <a href="https://discord.com/users/1218169520032710708"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="mailto:mohammediqramul01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
-<h2 align="left">LeetCode Stats:</h2>
-<p align="center"> <img align="center" src="https://leetcard.jacoblin.cool/mohammed-iqramul?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="LeetCode Stats"/></p>
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
-<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
-<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
-<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
-<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="mohammed-iqramul" width="100" height="100" /></p>
-<p><img align="left" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="mohammed-iqramul" width="100" height="100" /></p> 
-<p><img  src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="mohammed-iqramul" width="100" height="100" /></p>
+<!-- Tech Stack -->
+<h3 align="center">⚡ Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,js,react,nextjs,tailwind,bootstrap,materialui,vite,nodejs,express,dotnet,mysql,mongodb,firebase,gcp,vercel,netlify,cloudflare,githubactions,git,github,postman,figma,vscode,visualstudio,windows,npm" height="40"/>
+</p>
 
+<!-- Wavy Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 
-# Stats
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-iqramul&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-iqramul&layout=compact&theme=radical" height="180"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-iqramul&show_icons=true&locale=en&layout=compact" alt="mohammed-iqramul" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-iqramul&show_icons=true&locale=en" alt="mohammed-iqramul" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-iqramul&" alt="mohammed-iqramul" /></p> -->
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammed-iqramul&limit=5&theme=light&combine_all_yearly_contributions=true) -->
+<!-- Competitive Programming -->
+<h3 align="center">🏆 Competitive Programming</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohammed-iqramul?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap"/>
+</p>
 
-<br/> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-iqramul&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-iqramul" /> </p>
+<!-- Holopin Badges -->
+<h3 align="center">🎖️ Holopin Badges</h3>
+<p align="center">
+  <a href="https://holopin.io/@mohammediqramul">
+    <img src="https://holopin.me/mohammediqramul"/>
+  </a>
+</p>
+
+<!-- Footer Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=100&section=footer"/>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammed-iqramul&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
