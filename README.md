@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohammed+Iqramul;Aspiring+Software+Engineer;Full+Stack+Developer;Competitive+Programmer;GEN-AI+%7C+WEB3+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=df391c&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Mohammed+Iqramul;Aspiring+Software+Engineer;Full+Stack+Developer;Competitive+Programmer;GEN-AI+%7C+WEB3+Explorer" alt="Typing SVG" />
 </p>
 
 <!-- Cool Divider -->
@@ -12,13 +12,13 @@
 <p align="center">
   🎓 Final-year <b>B.Tech CSE</b> at Galgotias University<br>
   💻 Passionate about <b>Web Development</b> & <b>Competitive Programming</b><br>
-  🚀 Exploring <b>AI + Cloud + Full Stack</b> solutions<br>
+  🚀 Exploring <b>GEN-AI + WEB3 + Full Stack</b> solutions<br>
   🌟 Goal: To become a successful <b>Software Engineer</b>
 </p>
 
 <!-- Wavy Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=df391c&height=80&section=footer"/>
 </p>
 
 <!-- Socials -->
@@ -46,7 +46,7 @@
 
 <!-- Wavy Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=df391c&height=80&section=footer"/>
 </p>
 
 <!-- GitHub Stats -->
@@ -77,5 +77,5 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammed-iqramul&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohammed-iqramul&label=Profile%20Views&color=df391c&style=flat" />
 </p>
