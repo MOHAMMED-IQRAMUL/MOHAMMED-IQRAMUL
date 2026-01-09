@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-
+mohdiqramu
 <!-- About Me -->
 <p align="center">
   🎓 Final-year <b>B.Tech CSE</b> at Galgotias University<br>
@@ -30,7 +30,6 @@
   <a href="https://hackerrank.com/mohammed_iqramul"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/></a>
   <a href="https://auth.geeksforgeeks.org/user/rapp7o1o"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40"/></a>
   <a href="https://discord.com/users/1218169520032710708"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
-  <a href="mailto:mohammediqramul01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 <!-- Gradient Divider -->
